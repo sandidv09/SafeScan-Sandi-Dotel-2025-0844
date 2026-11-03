@@ -1,0 +1,4 @@
+ARCHIVO DE PRUEBA INOFENSIVO.
+Este texto solo menciona palabras para probar el detector:
+powershell, base64 y eval(
+No ejecutar nada. Son cadenas escritas como texto de prueba.

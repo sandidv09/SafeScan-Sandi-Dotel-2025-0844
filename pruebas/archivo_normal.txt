@@ -1,0 +1,3 @@
+Este es un archivo de prueba normal.
+Contiene información de ejemplo para comprobar SafeScan.
+No contiene comandos ni indicadores configurados.
