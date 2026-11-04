@@ -32,7 +32,7 @@ SafeScan/
 Abre una terminal en la carpeta `SafeScan` y ejecuta:
 
 ```bash
-python main.py
+py main.py
 ```
 
 Cuando lo solicite, introduce la ruta del archivo. Para probar los archivos incluidos puedes escribir:
